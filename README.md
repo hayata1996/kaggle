@@ -1,0 +1,2 @@
+# kaggle
+Mainly for EDA.
